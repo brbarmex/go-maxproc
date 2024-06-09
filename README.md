@@ -74,10 +74,17 @@ Todos os testes passaram 100% dos checks, indicando que todas as respostas foram
 
 #### Data Received e Data Sent:
 
+
 **Resultado 1:** 3.7 MB recebidos a 46 kB/s e 6.0 MB enviados a 75 kB/s.
+
 **Resultado 2:** 3.6 MB recebidos a 44 kB/s e 5.9 MB enviados a 72 kB/s.
+
+
 **Resultado 3:** 3.8 MB recebidos a 48 kB/s e 6.2 MB enviados a 77 kB/s.
-**Análise:** O terceiro teste transferiu a maior quantidade de dados, seguido pelo primeiro e segundo testes.
+
+
+**Análise:** O terceiro teste 
+transferiu a maior quantidade de dados, seguido pelo primeiro e segundo testes.
 
 #### http_req_blocked:
 
